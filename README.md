@@ -49,7 +49,7 @@ GitHub 和公众号我都会保持维护，期待你与我进行比心的交流�
 
 ## 特别鸣谢
 [代码家](https://github.com/daimajia) <br>
-[干货集中营](http://gank.io/) 
+[干货](http://gank.io/) 
     
 #### 有码走遍天下 无码寸步难行（引自网络）
 
