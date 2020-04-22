@@ -1,5 +1,5 @@
 # AiYaGirl
-「爱吖妹纸」是南尘的「爱吖系列」的较为完善的一款 APP，数据来源于代码家的 [干货集中营](http://gank.io/), UI 和部分设计参考自 [云阅](https://github.com/youlookwhat/CloudReader)<br>
+「爱吖妹纸」是南尘的「爱吖系列」的较为完善的一款 APP，数据来源于代码家的 [干货](http://gank.io/), UI 和部分设计参考自 [云阅](https://github.com/youlookwhat/CloudReader)<br>
 GitHub 上挺多开源的完整 APP，它们各有各的特色，我很感谢你，看到了这儿，这是我的幸运。<br>
 
 这款 APP 更像是一个 sample，内含 Kotlin 版本和 Java 版本写法，我们始终相信拥有完全对比版本的它，会是你学习 kotlin 的良药，同样的，即使你不喜欢 Kotlin，你同样可以直接查看 Java MVP 架构的学习，因为我们的架构思想就是采用地 MVP。<br>
